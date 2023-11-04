@@ -59,11 +59,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   </a>
 </div>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=harpreet-ka&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harpreet-ka" alt="GitHub Streak" />
 </p>
 
